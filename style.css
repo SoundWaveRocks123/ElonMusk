@@ -1,0 +1,41 @@
+body{
+background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+#home{
+text-align: center;
+color: beige;
+}
+#profilepic{
+height:500px;
+width:450px;
+margin-top:50px;
+}
+#bio{
+text-align: center;
+color: beige;
+}
+p{
+max-width: 500px;
+margin: 25px auto;
+color: beige;
+}
+#name{
+font-size:50px;
+color: beige;
+font-family: 'Dancing Script', cursive;}
+.menu{
+list-style: none;
+position: absolute;
+top: 10px;
+right: 30px;
+}
+.link{
+float: left;
+padding-right: 150px;
+font-size: 25px;
+color: bisque;
+}
+.link:hover{
+font-size: 35px;
+cursor: pointer;
+}
